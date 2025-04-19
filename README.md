@@ -1,1 +1,1 @@
-![Build Status](https://github.com/${{ github.repository }}/actions/workflows/task3.yml)
+![Build Status](https://github.com/OpenSnake/GitHub-Actions-Repo/actions/workflows/task3.yml)
